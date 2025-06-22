@@ -1,0 +1,5 @@
+To open the project 
+1. Double-click on the ReqresIntegration.Core.sln file
+2. Right-click on the solution and rebuild it 
+3. Run the application
+
